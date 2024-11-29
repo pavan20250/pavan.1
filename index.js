@@ -14,7 +14,7 @@ window.onresize = checkScreenWidth;
 
 
 var typed = new Typed(".text", {
-    strings: ["Web Developer", "Frontend &", "Backend"],
+    strings: ["Full Stack Developer", "Frontend &", "Backend"],
     typeSpeed: 50,
     backSpeed: 100,
     backDelay: 1000,
